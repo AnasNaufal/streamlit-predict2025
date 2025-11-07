@@ -1,0 +1,9 @@
+# Abaikan virtual environment dan file cache
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.ipynb_checkpoints
+.DS_Store
